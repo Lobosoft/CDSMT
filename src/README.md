@@ -2,7 +2,7 @@
 Código fuente de algunos ejemplos correspondientes a estimaciones de tráfico para el curso "Competencias digitales para el sector de la movilidad y el transporte"
 
 ## Contenido de las carpetas
-
+Se describe brevemente el contenido de cada carpeta:
 
     - **BestPath**: Implementación en C# de los algoritmos de búsqueda en grafos Dijkstra y A estrella (o A asterisco). Se presentan a modo de ejemplo para ilustrar cómo estos algoritmos pueden usarse dentro de las tecnologías que permiten el cálculo de rutas óptimas en movilidad, bien para el cálculo de rutas óptimas en desplazamientos de tráfico como en gestión de flotas.
 	Se trata de un ejemplo muy básico pero quería que ilustrase el contenido de los temas del trabajo de investigación.
