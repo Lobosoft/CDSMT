@@ -1,0 +1,45 @@
+﻿{
+  "nodes": [
+    {
+      "name": "A",
+      "heuristic": 14,
+      "neighbors": {
+        "B": 5,
+        "C": 10
+      }
+    },
+    {
+      "name": "B",
+      "heuristic": 12,
+      "neighbors": {
+        "D": 4,
+        "E": 6
+      }
+    },
+    {
+      "name": "C",
+      "heuristic": 10,
+      "neighbors": { "F": 7 }
+    },
+    {
+      "name": "D",
+      "heuristic": 8,
+      "neighbors": { "G": 8 }
+    },
+    {
+      "name": "E",
+      "heuristic": 5,
+      "neighbors": { "G": 3 }
+    },
+    {
+      "name": "F",
+      "heuristic": 4,
+      "neighbors": { "G": 4 }
+    },
+    {
+      "name": "G",
+      "heuristic": 0,
+      "neighbors": {}
+    }
+  ]
+}
