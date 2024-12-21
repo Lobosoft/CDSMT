@@ -1,9 +1,10 @@
 
-# Algoritmos de Búsqueda de Rutas: Dijkstra y A*
+# Ejemplos de algoritmos de búsqueda de rutas: Dijkstra y A*
 
 ## Introducción
 
-En este proyecto, se implementan dos algoritmos clásicos utilizados para encontrar la ruta más corta entre dos puntos en un grafo: **Dijkstra** y **A***. Estos algoritmos son fundamentales en el campo de la informática y se utilizan en aplicaciones como la navegación de mapas, la planificación de rutas, la inteligencia artificial, y mucho más. Para el propósito que nos ocupa, vienen a ilustrar su uso en el cálculo de rutas óptimas dentro de la movilidad sostenible en la ciudad de Málaga, aunque los datos usados son muy básicos y viene a darse como parte de lo que vendría a ser un proyecto a mayor escala donde se podría integrar para los objetivos que persigue el trabajo en el que se integra.
+En este proyecto se implementan dos algoritmos clásicos utilizados para encontrar la ruta más corta entre dos puntos en un grafo: **Dijkstra** y **A***. Estos algoritmos son fundamentales en el campo de la informática y se utilizan en aplicaciones como la navegación de mapas, la planificación de rutas, la inteligencia artificial, y mucho más. 
+Para el propósito que nos ocupa, vienen a ilustrar su uso en el cálculo de rutas óptimas dentro de la movilidad sostenible en la ciudad de Málaga, aunque los datos usados son muy básicos y viene a darse como parte de lo que vendría a ser un proyecto a mayor escala donde se podría integrar para los objetivos que persigue el trabajo en el que se integra.
 
 ## ¿Qué es un grafo?
 
