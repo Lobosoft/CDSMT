@@ -1,5 +1,5 @@
 
-# Generador de Datos de Tráfico
+# Generador de datos aleatorios de tráfico
 
 ## Descripción
 
