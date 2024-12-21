@@ -71,21 +71,3 @@ A* es mucho más eficiente que Dijkstra en muchos casos, porque al usar la heur�
 | **Eficiencia**     | Menos eficiente para encontrar el objetivo, explora muchos nodos. | Más eficiente al enfocarse en rutas cercanas al objetivo gracias a la heurística. |
 | **Ideal para**     | Encontrar el camino más corto desde un nodo a todos los demás. | Encontrar el camino más corto entre dos nodos específicos cuando se tiene una buena heurística. |
 | **Casos de uso**   | Redes de carreteras sin conocimiento adicional del destino, cálculo de rutas entre todos los nodos. | GPS, planificación de rutas en entornos con un destino claro. |
-
-### ¿Cuándo usar Dijkstra?
-- Cuando no tienes una heurística confiable.
-- Cuando necesitas calcular el camino más corto entre un nodo y todos los demás nodos en el grafo.
-- En redes con costos no negativos y cuando no importa mucho la eficiencia.
-
-### ¿Cuándo usar A*?
-- Cuando tienes una heurística razonable que puede estimar el costo hasta el destino.
-- Cuando buscas eficiencia y el objetivo es encontrar el camino entre dos nodos específicos en un grafo grande.
-- En aplicaciones de navegación como los GPS o videojuegos donde el destino es conocido.
-
-## Conclusión
-
-Ambos algoritmos, Dijkstra y A*, son poderosos para encontrar rutas en un grafo, pero tienen diferentes ventajas dependiendo del contexto. Dijkstra es más simple y siempre garantiza la mejor solución, pero A* es más eficiente cuando se tiene una buena heurística para guiar la búsqueda.
-
-Si eres nuevo en programación, no te preocupes si no entiendes todos los detalles matemáticos. Lo más importante es que ahora sabes cuándo y por qué usar cada algoritmo, y cómo se aplican en problemas del mundo real.
-
-¡Espero que esta explicación te haya ayudado a comprender mejor estos dos algoritmos y cómo se comparan!
